@@ -1,0 +1,23 @@
+.txt-username {
+  	display: block;
+  	margin-left: 10px;
+  	font-size: 20px;
+  	font-weight: 700;
+}
+.wrapper {
+    border: 1px solid #c3c3c3;
+  	border-radius: 5px;
+  	padding: 10px 0;
+  	box-shadow: rgba(0, 0, 0, 0.4) 0px 0px 10px;
+}
+.txt-header {
+  	font-size: 14px;
+    font-weight: 700;
+  	border-bottom: 1px solid #ccc;
+    padding: 0 15px 20px;
+  			
+}
+.content {
+  	padding-left: 20px;
+  	margin-bottom: 15px;
+}

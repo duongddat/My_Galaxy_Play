@@ -1,0 +1,41 @@
+@media (min-width: 1024px) {
+	.ml-lg-20 {
+		margin-left: 40px; 
+	}
+	.flex-start-lg {
+		justify-content: flex-start!important;
+	}
+	.layout-pc {
+		display: block !important;
+	}
+}
+
+@media (max-width: 1023px) {
+	.banner {
+	  	height: 430px;
+	}
+	.display-padding {
+		background-color: #000;
+	}
+	.content-detail-movie { 
+		height: 100%;
+	}
+	.content-tabletMobile {
+		display: block !important;
+	}
+	.card-container:hover {
+		transform: scale(1.1);
+	}
+	.tablet-mobile {
+		display: block;
+	}
+}
+
+@media (max-width: 600px) {
+	.banner {
+		height: 200px;
+	}
+	.title-film {
+		padding-top: 25px;
+	}
+}
